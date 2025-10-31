@@ -1,18 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my academic page!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a junior in Xi'an Jiaotong University, majoring in Energy and Power Engineering. My research interest includes Power System, Integrated Energy System, Operational Research and Reinforcement Learning.
-
-CV: 
-
-Contact: [xiaoyufu2004@gmail.com](xiaoyufu2004@gmail.com)
-
+A junior in Xi'an Jiaotong University majoring in Energy and Power Engineering. 
+Research interest includes Power System, Integrated Energy System, Operational Research and Reinforcement Learning.
+CV: [cv](https://DaisyXY2004.github.io/files/cv.pdf)
+Contact: [e-mail](xiaoyufu2004@gmail.com)
 Github: [https://pages.github.com](https://github.com/DaisyXY2004)
 
 
