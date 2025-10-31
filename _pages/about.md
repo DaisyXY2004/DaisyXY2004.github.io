@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-A junior in Xi'an Jiaotong University majoring in Energy and Power Engineering. 
+A junior in Xi'an Jiaotong University majoring in Energy and Power Engineering and minor in Automation.
+
 Research interest includes Power System, Integrated Energy System, Operational Research and Reinforcement Learning.
+
 CV: [cv](https://DaisyXY2004.github.io/files/cv.pdf)
+
 Contact: [e-mail](xiaoyufu2004@gmail.com)
+
 Github: [https://pages.github.com](https://github.com/DaisyXY2004)
 
